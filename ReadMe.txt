@@ -1,0 +1,3 @@
+It's a web browser based Music Player. The user can control it using play-pause and volume rocker. It shows details of the song being played along with list of songs available. The progress bar shows the progess of current song.
+It's written using HTML, CSS and JavaScript and uses custom icons from fontawesome.com .
+The song file contains the songs and we need to update the list of songs in the JavaScript file when we add or remove songs.
